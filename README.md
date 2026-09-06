@@ -7,3 +7,10 @@ A dummy project created to practice Git and GitHub collaboration.
 - Jaison
 - Kiran
 - Karishma
+and also nithin if possible
+
+## Features
+
+- Student information management
+- Student feedback collection
+- Feedback rating system
